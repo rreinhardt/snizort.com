@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "Monarch";
+  src: url("Monarch.woff") format("woff");
+}
+
+body{width:100%;font-family: "helvetica neue";background-color:#000;color: #fafafa; }
+.intro {padding:0;}
+.page > * {max-width: 100%;}
+.page {padding: 5vh 0 0 0;}
+.page > .header {max-width: var(--content-width)};
+
+
+.section, .caption {margin:0 auto;}
+.section img { max-width: 100%;margin:100px auto;}
+.effigy .caption {margin-bottom: 40px;}
+.text{ max-width: 100%; }
+h1 { text-align:center; font-family: "Monarch"; font-size: 3em; margin-top: 100px;margin-bottom: 90px; }
+.mon {font-family: Monarch; font-size: 3em;}
+
+.sat {max-width:1024px;margin: 0 auto 100px auto;}
+.sat img {width: 100%;}
+.sat .caption {font-weight: 300; size: 6px;text-align:right;}
+
+.about {background-color: #ddd;color: #999;text-align: center;height:200px;padding-top:50px;}
+.about h2 {font-family: "Monarch";color:#000; font-size: 3.4em;}
+
+.text h2 {font-size: 3.4em; line-height: 1.8em;}
+
+small {color: #999;}
+
+
+.effigy {background-color: #000;padding-top: 100px;padding-bottom: 100px;}
+.effigy .content {max-width: 450px; margin: 0 auto;}
+.effigy h2 {font-size: 4em;text-align:center;}
+.effigy img {margin: 0 auto; width: 100%;}
+.effigy a {color:white;}
+.effigy .second {margin-top:160px;}
+
+.break {height: 400px;background-color:#000;width:100%;}
+
+
+.misty {background-color: #fff;color: #222; padding: 25%;}
+.misty {background-color: #fff;color: #222; padding: 25%;}
+.misty a {text-decoration: none; color: #f00;}
+.misty hr {border: 1px #dfdfdf solid;}
+.misty p {line-height: 1.6em; font-size: 1.2em;}
+
+.rreff {max-width: 100%;padding-top: 100px;}
+
+.end {background-color: #fff;font-size: .8em;}
+.end img {margin-bottom: 300px;}
+.end li {margin-bottom: 5px;}
+
+.text a { white-space: normal; }
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { 
+	.misty { padding: 25% 5%;}
+ }
+@media (max-width: 450px) { 
+	.effigy .content {max-width: 95%}
+ }
