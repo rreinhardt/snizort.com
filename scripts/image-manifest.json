@@ -1,0 +1,323 @@
+{
+  "satellite-2019.png": {
+    "width": 2358,
+    "height": 1512,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/st-columbas-isle-satellite-2019-480.ba6c98dbcec2.webp",
+        "bytes": 28956
+      },
+      {
+        "width": 768,
+        "path": "assets/st-columbas-isle-satellite-2019-768.db469e3070d6.webp",
+        "bytes": 66034
+      },
+      {
+        "width": 1024,
+        "path": "assets/st-columbas-isle-satellite-2019-1024.cf95f659b86b.webp",
+        "bytes": 104942
+      },
+      {
+        "width": 1440,
+        "path": "assets/st-columbas-isle-satellite-2019-1440.b87ca5ed6541.webp",
+        "bytes": 174730
+      }
+    ]
+  },
+  "p1.png": {
+    "width": 848,
+    "height": 263,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/snizort-statistical-account-part-1-480.d155e80cc004.webp",
+        "bytes": 16642
+      },
+      {
+        "width": 848,
+        "path": "assets/snizort-statistical-account-part-1-848.c13ba80c1fa4.webp",
+        "bytes": 39218
+      }
+    ]
+  },
+  "p2.png": {
+    "width": 846,
+    "height": 93,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/snizort-statistical-account-part-2-480.8118a8431c44.webp",
+        "bytes": 3880
+      },
+      {
+        "width": 846,
+        "path": "assets/snizort-statistical-account-part-2-846.91940408e9c4.webp",
+        "bytes": 8604
+      }
+    ]
+  },
+  "inverness-shire-isle-of-skye-xxiii.6-snizort-survey-date-1877-publication-date-1878.png": {
+    "width": 3450,
+    "height": 1960,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/skeabost-ordnance-survey-1877-480.0b6f2491d510.webp",
+        "bytes": 27340
+      },
+      {
+        "width": 960,
+        "path": "assets/skeabost-ordnance-survey-1877-960.654548d03fc4.webp",
+        "bytes": 93212
+      },
+      {
+        "width": 1440,
+        "path": "assets/skeabost-ordnance-survey-1877-1440.dee903350fd6.webp",
+        "bytes": 176756
+      }
+    ]
+  },
+  "skeabost-1885.png": {
+    "width": 2278,
+    "height": 1436,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/skeabost-chapel-muir-1885-480.e69b42629121.webp",
+        "bytes": 19174
+      },
+      {
+        "width": 960,
+        "path": "assets/skeabost-chapel-muir-1885-960.98b42d52743e.webp",
+        "bytes": 66690
+      },
+      {
+        "width": 1440,
+        "path": "assets/skeabost-chapel-muir-1885-1440.7d89429479f2.webp",
+        "bytes": 122072
+      }
+    ]
+  },
+  "slab.png": {
+    "width": 924,
+    "height": 518,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/skeabost-effigy-macleod-1910-480.8d30a6b08bc1.webp",
+        "bytes": 18814
+      },
+      {
+        "width": 924,
+        "path": "assets/skeabost-effigy-macleod-1910-924.0bfd6a837c74.webp",
+        "bytes": 47770
+      }
+    ]
+  },
+  "screen-shot-2019-04-22-at-1.33.23-pm.png": {
+    "width": 1086,
+    "height": 450,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/skeabost-supernatural-story-1921-480.a402c6b04456.webp",
+        "bytes": 22870
+      },
+      {
+        "width": 960,
+        "path": "assets/skeabost-supernatural-story-1921-960.00a1fd68a225.webp",
+        "bytes": 57090
+      },
+      {
+        "width": 1086,
+        "path": "assets/skeabost-supernatural-story-1921-1086.6712ba927756.webp",
+        "bytes": 75828
+      }
+    ]
+  },
+  "canmore_image_DP00038685.jpg": {
+    "width": 450,
+    "height": 620,
+    "variants": [
+      {
+        "width": 450,
+        "path": "assets/effigy-calder-drawing-1921-450.fc12c479e54f.webp",
+        "bytes": 23288
+      }
+    ]
+  },
+  "canmore_image_SC01471995.jpg": {
+    "width": 450,
+    "height": 277,
+    "variants": [
+      {
+        "width": 450,
+        "path": "assets/effigy-photograph-1921-450.c650b980fe46.webp",
+        "bytes": 28074
+      }
+    ]
+  },
+  "canmore_image_SC01006954.jpg": {
+    "width": 450,
+    "height": 766,
+    "variants": [
+      {
+        "width": 450,
+        "path": "assets/effigy-photograph-2000-450.c0e08d354d7d.webp",
+        "bytes": 86040
+      }
+    ]
+  },
+  "slab-2017.jpg": {
+    "width": 2000,
+    "height": 3000,
+    "variants": [
+      {
+        "width": 450,
+        "path": "assets/effigy-photograph-2017-450.28eb5f42aa62.webp",
+        "bytes": 116690
+      },
+      {
+        "width": 900,
+        "path": "assets/effigy-photograph-2017-900.3fc607ed2ed0.webp",
+        "bytes": 425454
+      }
+    ]
+  },
+  "canmore_image_SC01471994.jpg": {
+    "width": 450,
+    "height": 284,
+    "variants": [
+      {
+        "width": 450,
+        "path": "assets/chapel-ruins-1920s-exterior-450.57e4f287615e.webp",
+        "bytes": 28382
+      }
+    ]
+  },
+  "canmore_image_SC01471992.jpg": {
+    "width": 450,
+    "height": 295,
+    "variants": [
+      {
+        "width": 450,
+        "path": "assets/chapel-ruins-1920s-450.03ce1033dc42.webp",
+        "bytes": 23352
+      }
+    ]
+  },
+  "canmore_image_SC01006948.jpg": {
+    "width": 450,
+    "height": 329,
+    "variants": [
+      {
+        "width": 450,
+        "path": "assets/chapel-ruins-2000-450.ac4499bd3353.webp",
+        "bytes": 34540
+      }
+    ]
+  },
+  "inside.jpg": {
+    "width": 2000,
+    "height": 1333,
+    "variants": [
+      {
+        "width": 450,
+        "path": "assets/chapel-interior-2017-450.50ba60690ab0.webp",
+        "bytes": 36440
+      },
+      {
+        "width": 900,
+        "path": "assets/chapel-interior-2017-900.3661cdc476b5.webp",
+        "bytes": 135608
+      }
+    ]
+  },
+  "img146.jpeg": {
+    "width": 4447,
+    "height": 2773,
+    "variants": [
+      {
+        "width": 450,
+        "path": "assets/river-snizort-sign-2017-450.f95955cd2d8e.webp",
+        "bytes": 49004
+      },
+      {
+        "width": 900,
+        "path": "assets/river-snizort-sign-2017-900.a648fe4352f4.webp",
+        "bytes": 201760
+      }
+    ]
+  },
+  "img144.jpeg": {
+    "width": 4447,
+    "height": 2773,
+    "variants": [
+      {
+        "width": 450,
+        "path": "assets/st-columbas-isle-direction-sign-2017-450.fd1c8638f3f0.webp",
+        "bytes": 26610
+      },
+      {
+        "width": 900,
+        "path": "assets/st-columbas-isle-direction-sign-2017-900.c64a91ed315d.webp",
+        "bytes": 99990
+      }
+    ]
+  },
+  "img138.jpeg": {
+    "width": 4437,
+    "height": 2762,
+    "variants": [
+      {
+        "width": 450,
+        "path": "assets/st-columbas-isle-graveyard-2017-450.5b7c916a351c.webp",
+        "bytes": 22306
+      },
+      {
+        "width": 900,
+        "path": "assets/st-columbas-isle-graveyard-2017-900.79c7f5bd41db.webp",
+        "bytes": 89190
+      }
+    ]
+  },
+  "img147.jpeg": {
+    "width": 4469,
+    "height": 2773,
+    "variants": [
+      {
+        "width": 450,
+        "path": "assets/st-columbas-isle-grave-mounds-2017-450.2b2da3fd07e7.webp",
+        "bytes": 26462
+      },
+      {
+        "width": 900,
+        "path": "assets/st-columbas-isle-grave-mounds-2017-900.8052afc084d3.webp",
+        "bytes": 106178
+      }
+    ]
+  },
+  "end.jpeg": {
+    "width": 1600,
+    "height": 1067,
+    "variants": [
+      {
+        "width": 480,
+        "path": "assets/st-columbas-isle-carved-stone-detail-480.c6868e393aa9.webp",
+        "bytes": 54282
+      },
+      {
+        "width": 960,
+        "path": "assets/st-columbas-isle-carved-stone-detail-960.ee116a1d0cc1.webp",
+        "bytes": 199756
+      },
+      {
+        "width": 1440,
+        "path": "assets/st-columbas-isle-carved-stone-detail-1440.9b6d884dfd9e.webp",
+        "bytes": 378358
+      }
+    ]
+  },
+  "social": "assets/st-columbas-isle-social.868502913b3a.jpg"
+}

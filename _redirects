@@ -1,0 +1,5 @@
+# Preserve deep image links while consolidating the canonical hostname.
+http://snizort.net/*       https://snizort.net/:splat 301!
+http://www.snizort.net/*   https://snizort.net/:splat 301!
+https://www.snizort.net/*  https://snizort.net/:splat 301!
+/index.html               /                         301!

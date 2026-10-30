@@ -1,0 +1,79 @@
+# Netlify already compresses text. Only fingerprinted assets are immutable.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate
+
+/style.css
+  Cache-Control: public, max-age=0, must-revalidate
+
+/Monarch.woff
+  Cache-Control: public, max-age=604800
+
+
+/canmore_image_DP00038685.jpg
+  Cache-Control: public, max-age=604800
+
+/canmore_image_SC01006948.jpg
+  Cache-Control: public, max-age=604800
+
+/canmore_image_SC01006954.jpg
+  Cache-Control: public, max-age=604800
+
+/canmore_image_SC01471992.jpg
+  Cache-Control: public, max-age=604800
+
+/canmore_image_SC01471994.jpg
+  Cache-Control: public, max-age=604800
+
+/canmore_image_SC01471995.jpg
+  Cache-Control: public, max-age=604800
+
+/end.jpeg
+  Cache-Control: public, max-age=604800
+
+/img138.jpeg
+  Cache-Control: public, max-age=604800
+
+/img144.jpeg
+  Cache-Control: public, max-age=604800
+
+/img146.jpeg
+  Cache-Control: public, max-age=604800
+
+/img147.jpeg
+  Cache-Control: public, max-age=604800
+
+/inside.jpg
+  Cache-Control: public, max-age=604800
+
+/inverness-shire-isle-of-skye-xxiii.6-snizort-survey-date-1877-publication-date-1878.png
+  Cache-Control: public, max-age=604800
+
+/p1.png
+  Cache-Control: public, max-age=604800
+
+/p2.png
+  Cache-Control: public, max-age=604800
+
+/satellite-2019.png
+  Cache-Control: public, max-age=604800
+
+/screen-shot-2019-04-22-at-1.33.23-pm.png
+  Cache-Control: public, max-age=604800
+
+/skeabost-1885.png
+  Cache-Control: public, max-age=604800
+
+/slab-2017.jpg
+  Cache-Control: public, max-age=604800
+
+/slab.png
+  Cache-Control: public, max-age=604800
+
+/favicon.svg
+  Cache-Control: public, max-age=604800
